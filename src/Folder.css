@@ -1,0 +1,9 @@
+.folder {
+    cursor: pointer;
+    padding: 5px;
+  }
+  
+  .folder-content {
+    padding-left: 20px;
+  }
+  
